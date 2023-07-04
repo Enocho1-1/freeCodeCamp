@@ -29,7 +29,7 @@ Es sollte ein zweites `figure`-Element genau über dem zweiten schließenden Tag
 assert($('main > section')[1].lastElementChild.nodeName === 'FIGURE');
 ```
 
-You should have a third `img` element nested in the `figure` element.
+Du solltest ein drittes `img`-Element in dem `figure`-Element einbetten.
 
 ```js
 const catsImg = document.querySelectorAll('figure > img')[1];

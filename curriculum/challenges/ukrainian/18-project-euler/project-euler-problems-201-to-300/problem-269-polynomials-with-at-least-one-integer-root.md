@@ -24,7 +24,7 @@ Define $Z(k)$ as the number of positive integers, $n$, not exceeding $k$ for whi
 
 It can be verified that $Z(100\\,000)$ is 14696.
 
-What is $Z({10}^{16})$?
+Чому дорівнює $Z({10}^{16})$?
 
 # --hints--
 
